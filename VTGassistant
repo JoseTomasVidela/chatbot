@@ -1,1 +1,3 @@
-
+pip install openai streamlit
+# .streamlit/secrets.toml
+OPENAI_API_KEY = "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"
